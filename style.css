@@ -343,3 +343,19 @@ position: relative;
     padding: 0 112px;
     position: relative;
 }
+
+.contatme{
+    height: 100vh;
+    width: 100vw;
+    background-color: #5db1bd;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    box-sizing: border-box;
+    padding: 0 112px;
+    position: relative; 
+}
